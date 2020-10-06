@@ -1,0 +1,13 @@
+Garrett Watkins
+
+Pymaceuticals Observations
+--------------------------
+1. For Mouse ID i557, the regimen Capomulin helped bring down the tumor volume significantly from timepoint 0 to 5, but then the tumor volume
+   increased from timepoint 5 to 45, past its original size. Perhaps Capomulin is effective in the short term, but its long term benefits are weak.  
+
+2. The correlation coefficient is .84, recommending that weight and tumor volume have a strong positive relationship. This makes sense as the more
+   a mouse weighs, the more room there is for the tumor to grow.
+
+3. The mice population was 50.403% male and 49.597% female. This makes sense as there were originally 249 mice, 124 female and 125 male, but we 
+   dropped a female due to its duplicate value, which left 248 mice, 123 female and 125 male. So, the male percentage should be just a bit more
+   than the female.
